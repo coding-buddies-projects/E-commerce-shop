@@ -20,6 +20,10 @@ Example:
  Add your own tasks if necessary
  <br/>
  Router will be implemented later in order not to confuse anyone
+ <br/>
+ To take the task you can push directly in main, 
+ <br/>
+ but for every feature create a separate branch
 
 1. - [x] Set up initial structure - [Alex](https://github.com/aleksandramuraveva)
 1. - [ ] Add global css styles, according to figama design - []()
