@@ -27,8 +27,8 @@ Example:
 
 1. - [x] Set up initial structure - [Alex](https://github.com/aleksandramuraveva)
 1. - [ ] Add global css styles, according to figama design - []()
-1. - [ ] Create SignupPopup component logic - []()
-1. - [ ] Style SignupPopup component using CSS - []()
+1. - [ :clock5: ]  Create SignupPopup component logic - [Emeline](https://github.com/MelineCo)
+1. - [ :clock5: ]  Style SignupPopup component using CSS - [Emeline](https://github.com/MelineCo)
 1. - [ ] Create Navbar component logic - []()
 1. - [ ] Style Navbar component using CSS - []()
 1. - [ :clock5: ] Create Section component logic - [Alex](https://github.com/aleksandramuraveva)
