@@ -1,4 +1,5 @@
 # E-commerce-shop
+[FIGMA DESIGN LINK](https://www.figma.com/design/fzzKlwFjkbga44BMkyUbjz/E-commerce-Website-Template-(Freebie)-(Community)-(Copy)?node-id=0-1)
 
 0. - [ :clock5: ] - **means task was taken and still not completed;**
 0. - [x] **means the task was competed;**
