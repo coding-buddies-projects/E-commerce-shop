@@ -1,12 +1,9 @@
-import ReviewCard from '../../../components/ReviewCard/ReviewCard';
+import { ReviewCard } from '../../../components/';
 
-const HomeReviews: React.FC = () => {
+export default function HomeReviews(): JSX.Element {
   return (
-    <div className="theme-wrapper">
-      <h2>I am HomeReviews component</h2>
+    <div>
       <ReviewCard />
     </div>
   );
-};
-
-export default HomeReviews;
+}

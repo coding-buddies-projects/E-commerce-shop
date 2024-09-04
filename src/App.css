@@ -3,6 +3,10 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  --black: #000;
+  --grey-light: #606060;
+  --white: #fff;
+  --gold: #ffc633;
 }
 
 .logo {

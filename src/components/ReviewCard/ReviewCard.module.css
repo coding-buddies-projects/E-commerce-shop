@@ -1,0 +1,7 @@
+.filled {
+  fill: var(--gold);
+}
+
+.star {
+  margin-right: 5px;
+}
